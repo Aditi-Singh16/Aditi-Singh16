@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India, I have made projects in MERN stack and Flutter</h3>
 
