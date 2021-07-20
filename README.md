@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<h3 align="center">A passionate Full Stack developer from India, I have made projects in MERN stack and Flutter</h3>
+<h3 align="center">A third yr student and a Full Stack developer from India, I have made projects in MERN stack and Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-singh16&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-singh16" /> </p>
 
